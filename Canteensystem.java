@@ -1,2 +1,2 @@
-# CanteenSystem
+# Cante
 Canteen Ordering System - Java
